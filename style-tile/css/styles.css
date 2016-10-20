@@ -1,0 +1,46 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+.color-1 {
+    background: red;
+}
+
+.color-1 {
+    background: white;}
+
+
+/* Textures or Patterns*/
+.pattern-1 {
+background: url("../img/flag.jpg");
+    }
+/* Imagery */
+
+
+/* Icons */
+
+
+/* Navigation */
+a:link,
+a:visited {
+    color: blue;
+    text-transform: uppercase;
+    
+}
+
+a:hover {
+  background: red;
+  margin-left: 2px;
+
+}
+
+a:active {
+    color: white;
+    
+}
+/* Typography */
+
+p {
+    font-family: 'Libre Franklin', sans-serif;
+}
