@@ -4,18 +4,40 @@
 
 /* Color Palette */
 .color-1 {
-    background: red;
+    background: #B8FFC7;
 }
 
-.color-1 {
-    background: white;}
+.color-2 {
+    background: #FFA185;}
 
+.color-3 {
+    background: #570030;}
+
+.color-4 {
+    background: #100038;}
+
+.color-5 {
+    background: #707070;}
 
 /* Textures or Patterns*/
 .pattern-1 {
-background: url("../img/flag.jpg");
+background: url("../img/pattern1.jpg");
     }
+.pattern-2 {
+    background: url("../img/patter2.png"); 
+  }
+.pattern-3 {
+    background: url("../img/pattern3.jpg"); 
+  }
+.pattern-4 {
+    background: url("../img/pattern4.jpg"); 
+  }
+.pattern-5 {
+    background: url("../img/pattern5.jpg"); 
+  }
 /* Imagery */
+
+
 
 
 /* Icons */
@@ -40,7 +62,21 @@ a:active {
     
 }
 /* Typography */
+h1,h3{
+    font-family: 'Raleway', sans-serif;
+    color: purple;
+}
+h2 {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 30px;
+    color: teal;
+}
 
 p {
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    color: salmon;
 }
+
+
+
+
