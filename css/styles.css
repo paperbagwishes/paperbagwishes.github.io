@@ -1,9 +1,72 @@
+nav li {
+    
+
+  display: inline;
+  list-style: none;
+  
+}
+/* 1st frame */
+nav a:link,
+nav a:visited {
+  background:#FFA185 ;
+  color: white;
+  text-decoration: none;
+  padding: 2em;
+padding-top: .5em;
+  
+  transition: 
+    background .5s,
+    padding .25s ease-in;
+    
+}
+/* last frame */
+nav a:hover {
+  background: #707070;
+  padding-top: .5em;
+}
+
+
 body{
-  background: url("../img/tileable_wood_texture.png");
+  background: #FFA185;
+    
+
 }
 
 img{ 
+
+    margin: 40px;
     width: 50%;
+      
+}
+
+body h1{ 
+    margin:  40px;
+    padding: 40px;
+    background-color: #570030;
     
+/*   background: #B8FFC7;
+}
+
+.color-2 {
+    background: #FFA185;}
+
+.color-3 {
+    background: #570030;}
+
+.color-4 {
+    background: #100038;}
+
+.color-5 {
+    background: #707070;}*/
+}
+h1{
+  color: white;
+}
+header{
     
 }
+
+
+
+
+
